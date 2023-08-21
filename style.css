@@ -1,5 +1,7 @@
 body {
     background: url(télécharger.jpg) ;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 nav {
     display: inline;
